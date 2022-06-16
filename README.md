@@ -2,7 +2,6 @@
 <div align="center">
 <a href="https://github.com/beatrizkloss">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizkloss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizkloss&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 
@@ -22,12 +21,6 @@
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
 </div>
     
- ##
- 
-<div aling="center">
-<a href="https://github.com/beatrizkloss">           
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizkloss&theme=dark"/>
-</div>
 
                                                              
     
