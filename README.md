@@ -25,6 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=orange)
 ![Static Badge](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/%20Python-black?style=for-the-badge&logo=python&logoColor=ffdd5)
+![Static Badge](https://img.shields.io/badge/java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=orange&color=black)
 ![Static Badge](https://img.shields.io/badge/%20C-black?style=for-the-badge&logo=C&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
