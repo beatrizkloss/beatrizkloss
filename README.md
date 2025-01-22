@@ -35,7 +35,6 @@
 ---
 
 ![Snake animation](https://github.com/beatrizkloss/beatrizkloss/blob/output/github-contribution-grid-snake.svg)
-
                                                              
     
 
