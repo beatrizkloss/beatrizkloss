@@ -13,9 +13,9 @@
 
 <div align="center">
 <a href="https://github.com/beatrizkloss">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizkloss&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizkloss&layout=compact&show_icons=true&theme=dark"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizkloss&show_icons=true&theme=radical&cache_seconds=30"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizkloss&layout=compact&show_icons=true&theme=radical&cache_seconds=30"/>
+</a>
 </div>
 
 ---
