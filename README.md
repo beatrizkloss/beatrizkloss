@@ -33,8 +33,9 @@
 ### ⚙️ Ferramentas e Ambientes de Desenvolvimento: ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-696969?style=flat-square&logo=figma&logoColor=figma) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 
 ---
+<img src="https://raw.githubusercontent.com/beatrizkloss/beatrizkloss/output/snake.svg" alt="Snake animation" />
 
-![Snake animation](https://github.com/beatrizkloss/beatrizkloss/blob/output/github-contribution-grid-snake.svg)
+###
                                                              
     
 
