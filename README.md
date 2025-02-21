@@ -2,7 +2,7 @@
 
 <li>💻 Sou estudante de Sistemas de Informação na UVA (Universidade Veiga de Almeida).</li>
 <li>🌱 Estou atualmente aprendendo Java; Spring Boot; JavaScript; React; MySQL.</li>
-<li>📚 Qualquer tipo de ajuda é bem vinda.</li>
+<li>📚 Qualquer tipo de ajuda é bem-vinda.</li>
 </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-kloss-1b258b22b/)
