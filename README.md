@@ -3,15 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=800080&random=false&width=435&lines=Hey%2C+Welcome!!!+%F0%9F%91%8B;I'm+Beatriz+Kloss!+%F0%9F%A4%93)](https://git.io/typing-svg)
 </div>
 
-<div align="center">
-  
-![kRo7ngj](https://github.com/user-attachments/assets/8089b0e5-fc25-4d76-9aec-45f1b1e887e5)
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/beatrizkloss/count.svg?"  />
-</div>
-
 ---
 <li>💻 Sou estudante de Sistemas de Informação na UVA (Universidade Veiga de Almeida).</li>
 <li>🌱 Estou atualmente aprendendo Java; Spring Boot; JavaScript; Vue.js; MySQL.</li>
