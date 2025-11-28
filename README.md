@@ -16,10 +16,8 @@
 ##
 
 <div align="center">
-<a href="https://github.com/beatrizkloss">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizkloss&bg_color=000&border_color=7f007f&title_color=E94D5F&text_color=FFF&cache_seconds=30"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizkloss&layout=compact&bg_color=000&border_color=7f007f&title_color=E94D5F&text_color=FFF&cache_seconds=30"/>
-</a>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatrizkloss&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatrizkloss&theme=radical" />
 </div>
 
 ---
