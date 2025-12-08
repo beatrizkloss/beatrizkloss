@@ -1,23 +1,23 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=800080&random=false&width=435&lines=Hey%2C+Welcome!!!+%F0%9F%91%8B;I'm+Beatriz+Kloss!+%F0%9F%A4%93)](https://git.io/typing-svg)
-</div>
 
----
-<li>💻 Sou estudante de Sistemas de Informação na UVA (Universidade Veiga de Almeida).</li>
-<li>🌱 Estou atualmente aprendendo Java; Spring Boot; JavaScript; Vue.js; MySQL.</li>
-<li>📚 Qualquer tipo de ajuda é bem-vinda.</li>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9c27b0&height=150&section=header&reversal=true" width="1000" />
+
+# 👾 Beatriz Kloss
+
+> **Sou estudante de Sistemas de Informação na UVA (Universidade Veiga de Almeida).**
+> Atualmente estou focando meus estudos em **Java**, **Spring Boot**, **MySQL** e **JavaScript**. 
+
 </br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7f007f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-kloss-1b258b22b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-7f007f?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/beakloss/)
-[![Gmail](https://img.shields.io/badge/Gmail-7f007f?style=for-the-badge&logo=gmail&logoColor=red)](mailto:beatrizkloss@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/beatriz-kloss-1b258b22b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:beatrizkloss@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</p>
 
-##
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatrizkloss&theme=radical" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatrizkloss&theme=radical" />
 </div>
 
 ---
@@ -44,6 +44,13 @@
 </div>
 
 ---
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatrizkloss&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatrizkloss&theme=radical" />
+</div>
+
+##
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/beatrizkloss/beatrizkloss/output/snake.svg" alt="Snake animation" />
