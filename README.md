@@ -66,7 +66,7 @@ cloud computing and infrastructure automation.
       └─$ ./abra.sh
 ```
 
-<img src="https://raw.githubusercontent.com/beatrizkloss/beatrizkloss/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/beatrizkloss/beatrizkloss/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
